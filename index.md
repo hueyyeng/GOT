@@ -1,8 +1,17 @@
-![alt text](header_00.jpg)
+<p align="center">
+<img src="header_00.jpg"/>
+</p>
 
 **Genshin Impact** is a F2P open world action RPG with co-op multiplayer by Chinese developer **Hoyoverse**.
 
-![alt text](header_00_xbox.jpg)
+<p align="center">
+<img src="this_is_paimon.jpg"/><img src="this_is_traveler.jpg"/>
+</p>
+
+<p align="center">
+<img src="header_00_xbox.jpg"/>
+</p>
+
 The Xbox Series X/S version will be releasing on November 20, 2024 as announced by Hoyoverse at gamescom Opening Night Live 2024. Genshin Impact will also be available on Xbox Game Pass service.
 
 A Switch version has also been announced without a specific date as of yet.
@@ -42,19 +51,22 @@ Note for PlayStation players, purchases can only be made through PSN and it is o
 
 Your main character is the Traveler from a far away world. You choose between the twins Lumine (girl) or Aether (boy). The twin you don't pick will still play a major role in the game's story.
 
-![alt text](characters_00.jpg)
+<p align="center"><img src="characters_00.jpg"/></p>
 
 You are joined on your journey by a big number of unique characters. These are all the playable characters that have so far been revealed:
 
-![alt text](characters_01.jpg)
-![alt text](characters_02.jpg)
-![alt text](characters_03.jpg)
-![alt text](characters_04.jpg)
-![alt text](characters_05.jpg)
-![alt text](characters_06.jpg)
+<p align="center"><img src="characters_01.jpg"/></p>
+<p align="center"><img src="characters_02.jpg"/></p>
+<p align="center"><img src="characters_03.jpg"/></p>
+<p align="center"><img src="characters_04.jpg"/></p>
+<p align="center"><img src="characters_05.jpg"/></p>
+<p align="center"><img src="characters_06.jpg"/></p>
 
 ![alt text](header_02_combat.jpg)
-![alt text](https://i.imgur.com/LoSRvbL.gif)
+
+<p align="center">
+<img src="https://i.imgur.com/LoSRvbL.gif"/>
+</p>
 
 With the main character and a team of three other party members you make use of elemental powers and their combination to defeat your enemies. Instead of all party members being present on the combat field at once, and part of them being controlled by the AI, you control all of them. With the press of a button you switch instantly from one character to the other, unleashing devastating combos.
 
@@ -64,19 +76,19 @@ The **Spiral Abyss** and **Imaginarium Theater** provides higher combat difficul
 
 There are seven unique open world regions to travel to and to freely explore. These are the six regions that have been released so far:
 
-![alt text](sceneries_00_monstadt.jpg)
-![alt text](sceneries_01_liyue.jpg)
-![alt text](sceneries_02_inazuma.jpg)
-![alt text](sceneries_03_sumeru.jpg)
-![alt text](sceneries_04_fontaine.jpg)
-![alt text](sceneries_05_natlan.jpg)
+<p align="center"><img src="sceneries_00_monstadt.jpg"/></p>
+<p align="center"><img src="sceneries_01_liyue.jpg"/></p>
+<p align="center"><img src="sceneries_02_inazuma.jpg"/></p>
+<p align="center"><img src="sceneries_03_sumeru.jpg"/></p>
+<p align="center"><img src="sceneries_04_fontaine.jpg"/></p>
+<p align="center"><img src="sceneries_05_natlan.jpg"/></p>
 
 Exploration and traversal is closely inspired by Breath of the Wild. You will run, climb, glide, swim and since most recently also dive to every nook and cranny of the game world to discover enemy camps, hidden treasures, puzzles, dungeons, bosses and more.
 
 New to Natlan, traveler can transform into various Saurians to navigate the terrains of Natlan.
 
-<img src="https://live.staticflickr.com/65535/51142597882_275cc388b5_o.gif" width="800" />
-<img src="https://64.media.tumblr.com/cc8e629ca78ef1f3975bcd3b354b76c3/b45acefd7d8b0ac8-c6/s540x810/6b7afd4b28df4d8d5663be13ac4c674298cf41e6.gifv" width="800" />
+<p align="center"><img src="https://live.staticflickr.com/65535/51142597882_275cc388b5_o.gif" width="800" /></p>
+<p align="center"><img src="https://64.media.tumblr.com/cc8e629ca78ef1f3975bcd3b354b76c3/b45acefd7d8b0ac8-c6/s540x810/6b7afd4b28df4d8d5663be13ac4c674298cf41e6.gifv" width="800" /></p>
 
 Also each playable Natlan characters have unique traversal mechanism in Natlan that uses Phlogiston.
 
