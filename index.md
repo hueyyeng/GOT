@@ -1,11 +1,42 @@
 ![alt text](header_00.jpg)
 
-Genshin Impact is a F2P open world action RPG with co-op multiplayer by Chinese developer Hoyoverse, available for PS4, PS5, PC, Android, iOS and Xbox Series X/S.
+**Genshin Impact** is a F2P open world action RPG with co-op multiplayer by Chinese developer **Hoyoverse**.
 
 ![alt text](header_00_xbox.jpg)
 The Xbox Series X/S version will be releasing on November 20, 2024 as announced by Hoyoverse at gamescom Opening Night Live 2024. Genshin Impact will also be available on Xbox Game Pass service.
 
 A Switch version has also been announced without a specific date as of yet.
+
+## General Information
+
+### Platforms
+
+- PlayStation 4
+- PlayStation 5
+- Windows (via HoYoPlay or Epic Games Launcher)
+- Xbox Series X/S
+- Android
+- iOS
+
+### Price
+
+Reminder, Genshin Impact is a F2P game and no purchases is required to enjoy the game (besides the time investment in playing the game).
+
+Note for PlayStation players, purchases can only be made through PSN and it is only accessible on a PS4/PS5.
+
+- **Battle Pass (Gnostic Hymm)**: USD $9.99 or equivalent
+  - Exclusive BP weapons
+  - Various rewards (Mora, EXP, etc.)
+- **Blessing of the Welkin Moon**: USD $4.99 or equivalent
+  - Instant 300 Genesis Crystals
+  - 90 Primogems through daily login for the next 30 days (failure to login means no 90 Primogems for each missing days)
+- **Character Outfits**
+  - Purchased using Genesis Crystals
+  - 4* outfits cost 1680 Genesis Crystals
+  - 5* outfits cost 2480 Genesis Crystals
+- **Genesis Crystals**
+  - Can be converted into Primogems on a 1:1 ratio
+  - Refer to the in-game store for the list of crystals pack and price
 
 ![alt text](header_01_characters.jpg)
 
@@ -47,9 +78,15 @@ New to Natlan, traveler can transform into various Saurians to navigate the terr
 <img src="https://live.staticflickr.com/65535/51142597882_275cc388b5_o.gif" width="800" />
 <img src="https://64.media.tumblr.com/cc8e629ca78ef1f3975bcd3b354b76c3/b45acefd7d8b0ac8-c6/s540x810/6b7afd4b28df4d8d5663be13ac4c674298cf41e6.gifv" width="800" />
 
+Also each playable Natlan characters have unique traversal mechanism in Natlan that uses Phlogiston.
+
 ![alt text](header_04_story.jpg)
 
 Genshin Impact is a story driven game. Apart from an extensive main story, many character and world quests bring the world, lore and characters to life. The story is told in many hours of high quality and fully voiced (in English, Japanese, Chinese and Korean) dialogue scenes and cutscenes.
+
+## Archon Quests
+
+Lorem ipsum dayo.
 
 ## OST
 
@@ -74,16 +111,16 @@ Generally the patch before the next major varsion features a brand new area for 
 This also means any rewards such as weapons/items that is part of the limited-time story events is no longer acquirable too such as the Cinnabar Spindle, a best in slot 4 stars weapon for Albedo from **Shadows Amidst Snowstorms** event (Nov 25 2021 - Dec 13 2021).
 
 ![alt text](cinnabar_spindle.jpg)
-*<small>Cinnabar Spindle in action.</small>*
+*<small>The elusive Cinnabar Spindle that is forever inaccessible for new players.</small>*
 
 ## Graphical Features
 
-|                 | Dynamic Character Resolution | Global Illumination  | 120fps | Highest Res Textures | Farthest Draw Distance |
+|                 | Dynamic Character Resolution (DCR) | Global Illumination (GI)  | 120fps | Highest Res Textures | Farthest Draw Distance |
 | --------------- | ---------------------------- | -------------------- | ------ | -------------------- | ---------------------- |
 | PS4             | ✔️                            | ❌                    | ❌      | -                    | -                      |
-| PS5/PS5 Pro     | ✔️                            | Always on by default | ❌      | ✔️                    | -                      |
+| PS5             | ✔️                            | Always on by default | ❌      | ✔️                    | -                      |
 | PC              | ✔️**                          | ✔️**                  | ❌      | -                    | ✔️                      |
-| Xbox Series X/S | ✔️                            | ✔️***                 | ❌      | -                    | -                      |
+| Xbox Series X/S | ✔️***                         | ✔️***                 | ❌      | -                    | -                      |
 | Android         | ✔️                            | ✔️                    | ❌      | -                    | -                      |
 | iOS             | ✔️                            | ✔️                    | ✔️*     | -                    | -                      |
 
@@ -95,7 +132,7 @@ This also means any rewards such as weapons/items that is part of the limited-ti
 1. **DCR** and **GI** can be toggle in the Graphics settings.
 2. PS5 is the only platform with the *highest res* textures.
 3. PC with maxed out settings render the *farthest* draw distance.
-4. Anti-aliasing options on PC is limited to FSR2 or SMAA.
+4. Anti-aliasing options on PC is limited to **FSR2** or **SMAA**.
 5. There is render resolution scaling on PC which allows higher than native resolution for supersampling.
 6. Borderless window on PC is only available on the display native resolution. Anything lower is Windowed mode only that can be toggle into fullscreen by using **Alt + Enter** shortcut.
 
@@ -139,7 +176,7 @@ No, it is very F2P friendly. The gacha system can be mostly ignored, but even by
 
 **How does the gacha exactly work?**
 
-Playing the game, or purchasing them with money, you obtain a rare currency called primogems. You can exchange this currency in the game shop for Acquaint and Intertwined fates. Those fates are used to pull characters and weapons. Characters are a lot rarer than weapons, there is however a pity system in place in case you have very bad luck pulling characters.
+Playing the game, or purchasing them with money, you obtain a rare currency called Primogems. You can exchange this currency in the game shop for Acquaint and Intertwined fates. Those fates are used to pull characters and weapons. Characters are a lot rarer than weapons, there is however a pity system in place in case you have very bad luck pulling characters.
 
 It is also noteworthy that not all characters are obtained just by gacha. Some are obtained by playing the story, by completing game events and some can be obtained by purchasing them in the game shop.
 
@@ -153,7 +190,7 @@ No. It's openess, world exploration and traversal are closely inspired by BotW, 
 
 NOT EMERGENCY FOOD!!* Paimon just likes tagging along, guiding the Traveler and helping them out as good as she can while being incredibly adorable.
 
-* Genshin Impact community inside joke. ;)
+<small>* Genshin Impact community inside joke. ;)</small>
 
 **Wriothesley re-run when?**
 
