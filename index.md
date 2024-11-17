@@ -44,14 +44,23 @@ Exploration and traversal is closely inspired by Breath of the Wild. You will ru
 
 New to Natlan, traveler can transform into various Saurians to navigate the terrains of Natlan.
 
-![alt text](https://live.staticflickr.com/65535/51142597882_275cc388b5_o.gif)
-![alt text](https://64.media.tumblr.com/cc8e629ca78ef1f3975bcd3b354b76c3/b45acefd7d8b0ac8-c6/s540x810/6b7afd4b28df4d8d5663be13ac4c674298cf41e6.gifv)
+<img src="https://live.staticflickr.com/65535/51142597882_275cc388b5_o.gif" width="800" />
+<img src="https://64.media.tumblr.com/cc8e629ca78ef1f3975bcd3b354b76c3/b45acefd7d8b0ac8-c6/s540x810/6b7afd4b28df4d8d5663be13ac4c674298cf41e6.gifv" width="800" />
 
 ![alt text](header_04_story.jpg)
 
 Genshin Impact is a story driven game. Apart from an extensive main story, many character and world quests bring the world, lore and characters to life. The story is told in many hours of high quality and fully voiced (in English, Japanese, Chinese and Korean) dialogue scenes and cutscenes.
 
-Everything is accompanied by a beautiful OST by the award-winning composer Yu-Peng Chen and by Western and Eastern producers and orchestras that also brought us the film and game OSTs of The Lord of the Rings trilogy, Crouching Tiger Hidden Dragon, God of War (2018) and Final Fantasy XV.
+## OST
+
+Featuring a wide variety of beautiful OST by the award-winning composer Yu-Peng Chen and by Western and Eastern producers and orchestras under the credits "HOYO-MiX" that also brought us OSTs for The Lord of the Rings trilogy, Crouching Tiger Hidden Dragon, God of War (2018) and Final Fantasy XV.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ZNqBF3M7-8?si=Lr8BJdJ7o1abcxpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VrP3lO3aGDg?si=2c5aXIIjdr3ed2LJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TyCB25oXUA4?si=RcmNK2CwZ_ou-SFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Limited-time story events
 
@@ -60,8 +69,12 @@ Since the release of Genshin Impact back in late 2020, Hoyoverse did not re-run 
 Generally the patch before the next major varsion features a brand new area for players to explore that is inaccessible after the event ended resulting in newer players missing out such moment:
 
 ![alt text](cappet.jpg)
+*<small>Cappet as featured in Summertide Scales and Tales from Version 4.8</small>*
 
 This also means any rewards such as weapons/items that is part of the limited-time story events is no longer acquirable too such as the Cinnabar Spindle, a best in slot 4 stars weapon for Albedo from **Shadows Amidst Snowstorms** event (Nov 25 2021 - Dec 13 2021).
+
+![alt text](cinnabar_spindle.jpg)
+*<small>Cinnabar Spindle in action.</small>*
 
 ## Graphical Features
 
@@ -74,11 +87,9 @@ This also means any rewards such as weapons/items that is part of the limited-ti
 | Android         | ✔️                            | ✔️                    | ❌      | -                    | -                      |
 | iOS             | ✔️                            | ✔️                    | ✔️*     | -                    | -                      |
 
-*Currently exclusive to iOS.
-
-**Not available for unsupported graphic cards.
-
-***Series X should be on par with PS5 while Series S is still unknown as of this time of the OT publication.
+<small>*Currently exclusive to iOS.</small>
+<small>**Not available for unsupported graphic cards.</small>
+<small>***Series X should be on par with PS5 while Series S is still unknown as of this time of the OT publication.</small>
 
 ### Additional Notes
 1. **DCR** and **GI** can be toggle in the Graphics settings.
@@ -154,17 +165,19 @@ Story spoilers or leaked content has to be put in spoiler tags. Anyone breaking 
 
 ![alt text](header_07_links.jpg)
 
-Genshin Impact Scenic Beauty Photography Thread: https://www.resetera.com/threads/genshin-impacts-incredible-scenic-beauty.424625/
+**Genshin Impact Scenic Beauty Photography Thread**: https://www.resetera.com/threads/genshin-impacts-incredible-scenic-beauty.424625/
 
-Genshin Impact official: https://genshin.hoyoverse.com/en
+**Genshin Impact Official Site**: https://genshin.hoyoverse.com/en
 
-Genshin Impact Twitter: https://twitter.com/GenshinImpact
+**Genshin Impact Twitter**: https://twitter.com/GenshinImpact
 
-Genshin Impact Youtube: https://www.youtube.com/GenshinImpact
+**Genshin Impact YouTube**: https://www.youtube.com/GenshinImpact
+
+### Special Thanks
 
 Thanks to DatManOvaDer and Dlanor A. Knox for their great gif work. :)
 
-Thanks to Dandy for coming up with the cool topic title. :)
+Thanks to **<placeholder_name>** for coming up with the cool topic title. :)
 
 Thanks to ArcticDonkey for coming up with the note on gacha for newcomers. :)
 
