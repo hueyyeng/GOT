@@ -1,16 +1,10 @@
-<p align="center">
-<img src="header_00.jpg"/>
-</p>
+<p align="center"><img src="header_00.jpg"/></p>
 
 **Genshin Impact** is a F2P open world action RPG with co-op multiplayer by Chinese developer **Hoyoverse**.
 
-<p align="center">
-<img src="this_is_paimon.jpg"/><img src="this_is_traveler.jpg"/>
-</p>
+<p align="center"><img src="this_is_paimon.jpg"/><img src="this_is_traveler.jpg"/></p>
 
-<p align="center">
-<img src="header_00_xbox.jpg"/>
-</p>
+<p align="center"><img src="header_00_xbox.jpg"/></p>
 
 The Xbox Series X/S version will be releasing on November 20, 2024 as announced by Hoyoverse at gamescom Opening Night Live 2024. Genshin Impact will also be available on Xbox Game Pass service.
 
@@ -47,7 +41,7 @@ Note for PlayStation players, purchases can only be made through PSN and it is o
   - Can be converted into Primogems on a 1:1 ratio
   - Refer to the in-game store for the list of crystals pack and price
 
-![alt text](header_01_characters.jpg)
+<p align="center"><img src="header_01_characters.jpg"/></p>
 
 Your main character is the Traveler from a far away world. You choose between the twins Lumine (girl) or Aether (boy). The twin you don't pick will still play a major role in the game's story.
 
@@ -62,17 +56,22 @@ You are joined on your journey by a big number of unique characters. These are a
 <p align="center"><img src="characters_05.jpg"/></p>
 <p align="center"><img src="characters_06.jpg"/></p>
 
-![alt text](header_02_combat.jpg)
+<p align="center"><img src="header_02_combat.jpg"/></p>
 
-<p align="center">
-<img src="https://i.imgur.com/LoSRvbL.gif"/>
-</p>
+<p align="center"><img src="https://i.imgur.com/LoSRvbL.gif"/></p>
+<p align="center"><img src="combat_ayaka.gif"/><img src="combat_mualani.gif"/></p>
 
 With the main character and a team of three other party members you make use of elemental powers and their combination to defeat your enemies. Instead of all party members being present on the combat field at once, and part of them being controlled by the AI, you control all of them. With the press of a button you switch instantly from one character to the other, unleashing devastating combos.
 
-The **Spiral Abyss** and **Imaginarium Theater** provides higher combat difficulty challenges and rewards which resets monthly. The Imaginarium Theater also offers various poses and echoes for select characters as part of the rewards.
+<p align="center"><img src="spiral_abyss_imaginarium_theater.jpg"/></p>
 
-![alt text](header_03_openworld.jpg)
+The **Spiral Abyss** and **Imaginarium Theater** provides higher combat difficulty challenges and rewards which resets monthly.
+
+<p align="center"><img src="it_rewards.jpg"/></p>
+
+The Imaginarium Theater also offers various poses and echoes for select characters as part of the rewards.
+
+<p align="center"><img src="header_03_openworld.jpg"/></p>
 
 There are seven unique open world regions to travel to and to freely explore. These are the six regions that have been released so far:
 
@@ -83,27 +82,38 @@ There are seven unique open world regions to travel to and to freely explore. Th
 <p align="center"><img src="sceneries_04_fontaine.jpg"/></p>
 <p align="center"><img src="sceneries_05_natlan.jpg"/></p>
 
-Exploration and traversal is closely inspired by Breath of the Wild. You will run, climb, glide, swim and since most recently also dive to every nook and cranny of the game world to discover enemy camps, hidden treasures, puzzles, dungeons, bosses and more.
-
-New to Natlan, traveler can transform into various Saurians to navigate the terrains of Natlan.
+Exploration and traversal is closely inspired by Breath of the Wild.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/51142597882_275cc388b5_o.gif" width="800" /></p>
 <p align="center"><img src="https://64.media.tumblr.com/cc8e629ca78ef1f3975bcd3b354b76c3/b45acefd7d8b0ac8-c6/s540x810/6b7afd4b28df4d8d5663be13ac4c674298cf41e6.gifv" width="800" /></p>
 
+You will run, climb, glide, swim and since most recently also dive to every nook and cranny of the game world to discover enemy camps, hidden treasures, puzzles, dungeons, bosses and more.
+
+<p align="center"><img src="saurian_01.gif"/><img src="saurian_02.gif"/><img src="saurian_03.gif"/></p>
+
+New to Natlan, traveler can transform into various Saurians to navigate the terrains of Natlan.
+
+<p align="center"><img src="natlan_mualani.gif"/><img src="natlan_xilonen_kinich.gif"/></p>
+
 Also each playable Natlan characters have unique traversal mechanism in Natlan that uses Phlogiston.
 
-![alt text](header_04_story.jpg)
+<p align="center"><img src="header_04_story.jpg"/></p>
 
 Genshin Impact is a story driven game. Apart from an extensive main story, many character and world quests bring the world, lore and characters to life. The story is told in many hours of high quality and fully voiced (in English, Japanese, Chinese and Korean) dialogue scenes and cutscenes.
 
 ## Archon Quests
 
-Lorem ipsum dayo.
+<p align="center"><img src="story_sheet.jpg"/></p>
+
+The main story of Genshin Impact told across several chapters as the Traveler and Paimon travel the world of Teyvat in search of the Traveler's lost sibling.
+
+## Hangouts
+
+Hangouts glup glup glup.
 
 ## OST
 
 Featuring a wide variety of beautiful OST by the award-winning composer Yu-Peng Chen and by Western and Eastern producers and orchestras under the credits "HOYO-MiX" that also brought us OSTs for The Lord of the Rings trilogy, Crouching Tiger Hidden Dragon, God of War (2018) and Final Fantasy XV.
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0ZNqBF3M7-8?si=Lr8BJdJ7o1abcxpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -125,6 +135,17 @@ This also means any rewards such as weapons/items that is part of the limited-ti
 ![alt text](cinnabar_spindle.jpg)
 *<small>The elusive Cinnabar Spindle that is forever inaccessible for new players.</small>*
 
+## Genius Invokation TCG
+
+<p align="center"><img src="genius_invokation_tcg.jpg"/></p>
+
+Introduced in Version 3.3, players can invite characters and NPCs to play against in PvE. Genius Invokation TCG contents is slowly updated in every patch so there is always new challenges and new cards to collect.
+
+## Serenitea Pot
+
+I am not a teapot.
+
+
 ## Graphical Features
 
 |                 | Dynamic Character Resolution (DCR) | Global Illumination (GI)  | 120fps | Highest Res Textures | Farthest Draw Distance |
@@ -133,8 +154,8 @@ This also means any rewards such as weapons/items that is part of the limited-ti
 | PS5             | ✔️                            | Always on by default | ❌      | ✔️                    | -                      |
 | PC              | ✔️**                          | ✔️**                  | ❌      | -                    | ✔️                      |
 | Xbox Series X/S | ✔️***                         | ✔️***                 | ❌      | -                    | -                      |
-| Android         | ✔️                            | ✔️                    | ❌      | -                    | -                      |
-| iOS             | ✔️                            | ✔️                    | ✔️*     | -                    | -                      |
+| Android         | ❌                            | ❌                    | ❌      | -                    | -                      |
+| iOS             | ❌                            | ❌                    | ✔️*     | -                    | -                      |
 
 <small>*Currently exclusive to iOS.</small>
 <small>**Not available for unsupported graphic cards.</small>
@@ -148,7 +169,7 @@ This also means any rewards such as weapons/items that is part of the limited-ti
 5. There is render resolution scaling on PC which allows higher than native resolution for supersampling.
 6. Borderless window on PC is only available on the display native resolution. Anything lower is Windowed mode only that can be toggle into fullscreen by using **Alt + Enter** shortcut.
 
-![alt text](header_05_faq.jpg)
+<p align="center"><img src="header_05_faq.jpg"/></p>
 
 **On what platforms is this game available?**
 
@@ -208,11 +229,11 @@ NOT EMERGENCY FOOD!!* Paimon just likes tagging along, guiding the Traveler and 
 
 Whenever Hoyoverse melts the frozen jail of Cryo characters.
 
-![alt text](header_06_spoiler.jpg)
+<p align="center"><img src="header_06_spoiler.jpg"/></p>
 
 Story spoilers or leaked content has to be put in spoiler tags. Anyone breaking the rules will spend the rest of their days in Fortress of Meropide at the bottom of the ocean!
 
-![alt text](header_07_links.jpg)
+<p align="center"><img src="header_07_links.jpg"/></p>
 
 **Genshin Impact Scenic Beauty Photography Thread**: https://www.resetera.com/threads/genshin-impacts-incredible-scenic-beauty.424625/
 
@@ -230,11 +251,13 @@ Thanks to **<placeholder_name>** for coming up with the cool topic title. :)
 
 Thanks to ArcticDonkey for coming up with the note on gacha for newcomers. :)
 
-Thanks to Tyaren for creating the previous OTs and the wonderful screenshots of Genshin Impact sceneries.
+Thanks to Tyaren for creating the previous OTs and the wonderful screenshots of Genshin Impact sceneries. :D
 
-![alt text](header_08_newcomers.jpg)
+Thanks to KageYume for the epic combat and sublime traversal GIFs. :D
 
-Genshin Impact is an incredibly fun and rewarding game and is very FTP friendly. All content can be cleared with starting characters and some of the strongest characters are 4*.
+<p align="center"><img src="header_08_newcomers.jpg"/></p>
+
+Genshin Impact is an incredibly fun and rewarding game and is very F2P friendly. All content can be cleared with starting characters and some of the strongest characters are 4*.
 
 It should be noted that the cost of pulling is very high and rates are incredibly low of pulling a 5* character outside of pity. If you're really enjoying the game and don't mind dropping a few bucks, it's generally advised to stick to the $5 Welkin pass or the $10 battle pass.
 
