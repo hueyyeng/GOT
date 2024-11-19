@@ -107,9 +107,13 @@ Genshin Impact is a story driven game. Apart from an extensive main story, many 
 
 The main story of Genshin Impact told across several chapters as the Traveler and Paimon travel the world of Teyvat in search of the Traveler's lost sibling.
 
-## Hangouts
+## Hangout Event
 
-Hangouts glup glup glup.
+<p align="center"><img src="hangouts_00.jpg"/></p>
+
+A special Story Quests that that is fully voiced and presented similarly like a visual novel. Players can replay many times through the dialogue choices that branch out to unlock multiple endings.
+
+<p align="center"><img src="hangouts_01.jpg"/></p>
 
 ## OST
 
@@ -121,7 +125,9 @@ Featuring a wide variety of beautiful OST by the award-winning composer Yu-Peng 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TyCB25oXUA4?si=RcmNK2CwZ_ou-SFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Limited-time story events
+## Limited-time Story Events
+
+<p align="center"><img src="events_flagships.webp"/></p>
 
 Since the release of Genshin Impact back in late 2020, Hoyoverse did not re-run any limited-time story events and the only way to relieve the moments is through Let's Play footage/stream archives.
 
@@ -143,8 +149,12 @@ Introduced in Version 3.3, players can invite characters and NPCs to play agains
 
 ## Serenitea Pot
 
-I am not a teapot.
+<p align="center"><img src="teapot_00.jpg"/></p>
 
+Released in Version 1.5, the Serenitea Pot allows player to create their own home from various furnitures crafted through materials and blueprints found in Teyvat.
+
+<p align="center"><img src="teapot_01.jpg"/></p>
+<p align="center"><img src="teapot_02.jpg"/></p>
 
 ## Graphical Features
 
@@ -194,6 +204,16 @@ Yes, it does feature cross play on all platforms.
 **Does this feature cross save?**
 
 Yes, as of game version 2.0 all platforms' saves will be compatible.
+
+**How is the controller support on PC and mobile devices?**
+
+Controller works natively on PC and iOS while Android does not support any controller. However, you still have to manually switch to controller and K&M (PC) and touch screen (iOS) and vice versa. If you are using controller mode and your controller is disconnected for some reason and cannot be reconnected, you will have to restart the game for it to change to available input method.
+
+Based on KageYume findings:
+
+> On iOS, I've tried the GameSir G8 and the Xbox One/Series controller.
+>
+> On PC, I can confirm the Xbox One/Series controller and compatible controllers work. Playstation controller should work (it's officially supported). Switch Pro Controller doesn't work.
 
 **Is this really F2P? It looks too good to be true.**
 
