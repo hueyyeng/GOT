@@ -1,12 +1,12 @@
 <p align="center"><img src="header_00.jpg"/></p>
 
-**Genshin Impact** is a F2P open world action RPG with co-op multiplayer by Chinese developer **Hoyoverse**.
+**Genshin Impact** is a F2P open world action RPG with co-op multiplayer by Chinese developer **Hoyoverse**. The Xbox Series X/S version will be releasing on November 20, 2024 as announced by Hoyoverse at gamescom Opening Night Live 2024.
 
 <p align="center"><img src="this_is_paimon.jpg"/><img src="this_is_traveler.jpg"/></p>
 
 <p align="center"><img src="header_00_xbox.jpg"/></p>
 
-The Xbox Series X/S version will be releasing on November 20, 2024 as announced by Hoyoverse at gamescom Opening Night Live 2024. Genshin Impact will also be available on Xbox Game Pass service.
+Genshin Impact will also be available on Xbox Game Pass service.
 
 A Switch version has also been announced without a specific date as of yet.
 
@@ -45,7 +45,7 @@ Note for PlayStation players, purchases can only be made through PSN and it is o
 
 Your main character is the Traveler from a far away world. You choose between the twins Lumine (girl) or Aether (boy). The twin you don't pick will still play a major role in the game's story.
 
-<p align="center"><img src="characters_00.jpg"/></p>
+<p align="center"><img src="characters_00.png"/></p>
 
 You are joined on your journey by a big number of unique characters. These are all the playable characters that have so far been revealed:
 
