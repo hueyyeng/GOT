@@ -1,6 +1,10 @@
 <p align="center"><img src="header_00.jpg"/></p>
 
-**Genshin Impact** is a F2P open world action RPG with co-op multiplayer by Chinese developer **Hoyoverse**.
+**Genshin Impact** is a F2P open world action RPG with co-op multiplayer by Chinese developer **HoYoverse**.
+
+As part of a new effort by the devs to further explain the various lore points, **Song of the Welkin Moon** features Nod-Krai, a new region that is ruled autonomously before the Traveler visits Snezhnaya.
+
+This also reflects in the marketing material where it is not officially referred to by its version number but instead, starting with version Luna I.
 
 <p align="center"><img src="this_is_paimon.jpg"/><img src="this_is_traveler.jpg"/></p>
 
@@ -16,7 +20,7 @@
 - Android
 - iOS
 
-> As announced previously by the devs, the PS4 version will be discontinued soon. The PS4 version will be removed from PlayStation Store on September 10, 2025 and the end of service is scheduled for April 8, 2026.
+> As announced by the devs on August 6, 2025, the PS4 version will be discontinued soon. The PS4 version will be removed from PlayStation Store on September 10, 2025 and the end of service is scheduled for April 8, 2026.
 
 ### Price
 
@@ -35,6 +39,8 @@ Reminder, Genshin Impact is a F2P game and no purchases is required to enjoy the
 - **Genesis Crystals**
   - Can be converted into Primogems on a 1:1 ratio
   - Refer to the in-game store for the list of crystals pack and price
+
+There is also a double bonus when topping up Genesis Crystals for the first top-up.
 
 <p align="center"><img src="header_01_characters.jpg"/></p>
 
@@ -119,15 +125,23 @@ A special Story Quests that that is fully voiced and presented similarly like a 
 
 <p align="center"><img src="hangouts_01.jpg"/></p>
 
-## Traveler's Tales
+## Travelers' Tales
 
 First introduced as an experimental limited event, it is now a permanent edition to "Luna" version.
+
+## Miliastra Wonderland
+
+A new UGC mode, **Miliastra Wonderland** will be introduced in phases starting with version Luna III. Players can use **Miliastra Sandbox**, a sandbox editor similar to Roblox and Fortnite Creative.
+
+The teaser showcases various gameplay mechanics similar to DOTA/League of Legends, board game, hero shooter and many more.
+
+Insert YouTube teaser video here.
 
 ## OST
 
 Insert Nod-Krai theme and combat music here.
 
-Featuring a wide variety of beautiful OST by the award-winning composer Yu-Peng Chen and by Western and Eastern producers and orchestras under the credits "HOYO-MiX" that also brought us OSTs for The Lord of the Rings trilogy, Crouching Tiger Hidden Dragon, God of War (2018) and Final Fantasy XV.
+Featuring a wide variety of beautiful OST by the award-winning composer Yu-Peng Chen and by Western and Eastern producers and orchestras under the credits "**HOYO-MiX**" that also brought us OSTs for The Lord of the Rings trilogy, Crouching Tiger Hidden Dragon, God of War (2018) and Final Fantasy XV.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0ZNqBF3M7-8?si=Lr8BJdJ7o1abcxpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -139,7 +153,7 @@ Featuring a wide variety of beautiful OST by the award-winning composer Yu-Peng 
 
 <p align="center"><img src="events_flagships.webp"/></p>
 
-Since the release of Genshin Impact back in late 2020, Hoyoverse did not re-run any limited-time story events and the only way to relieve the moments is through Let's Play footage/stream archives.
+Since the release of Genshin Impact back in late 2020, HoYoverse did not re-run any limited-time story events and the only way to relieve the moments is through Let's Play footage/stream archives.
 
 Generally the patch before the next major version features a brand new area for players to explore that is inaccessible after the event ended resulting in newer players missing out such moment:
 
@@ -183,7 +197,7 @@ Released in Version 1.5, the Serenitea Pot allows player to create their own hom
 
 ### Additional Notes
 1. **DCR** and **GI** can be toggle in the Graphics settings.
-2. PS5 is the only platform with the *highest res* textures.
+2. PS5 and Xbox is the only platform with the *highest res* textures.
 3. PC with maxed out settings render the *farthest* draw distance.
 4. Anti-aliasing options on PC is limited to **FSR2** or **SMAA**.
 5. There is render resolution scaling on PC which allows higher than native resolution for supersampling.
@@ -197,7 +211,10 @@ Genshin Impact is available now on PS5, PC, Android, iOS and Xbox Series X/S. A 
 
 **There is no macOS version?**
 
-Officially nope. There is alternative way to run either the PC or iOS on macOS but it is beyond the scope of this OT.
+macOS is not officially supported despite being offered on iOS platforms. There is alternative way to run either the PC or iOS on macOS but it is beyond the scope of this OT.
+
+**Can I run it on Linux?**
+Technically yes using Proton but it is not officially supported. Refer to the Linux section below for more details.
 
 **Is this an MMO?**
 
@@ -205,7 +222,7 @@ No, this is a single-player focused experience with co-op multiplayer to invite 
 
 **Do I need to be online all the time?**
 
-Yes, you will need to stay in constant contact with Hoyoverse's servers.
+Yes, you will need to stay in constant contact with HoYoverse's servers.
 
 **Does this feature cross play?**
 
@@ -243,21 +260,23 @@ Playing the game, or purchasing them with money, you obtain a rare currency call
 
 It is also noteworthy that not all characters are obtained just by gacha. Some are obtained by playing the story, by completing game events and some can be obtained by purchasing them in the game shop.
 
-Beginning with 5.0, the ~~scam~~ weapon banner Epitomized Path fate point has been reduced to 1 and a new Capturing Radiance mechanic that increases the chances of winning the 50/50 when pulling for the featured 5-star character limited banners.
+Beginning with 5.0, the ~~scam~~ weapon banner **Epitomized Path** fate point has been reduced to 1 and a new **Capturing Radiance** mechanic that increases the chances of winning the 50/50 when pulling for the featured 5-star character limited banners.
 
 **Is this a cheap Breath of the Wild rip-off?**
 
-No. It's openess, world exploration and traversal are closely inspired by BotW, everything else, like its world, its lore, its story, its characters and its combat system are its very own thing. This game's production value is also anything but cheap.
+No. It's openness, world exploration and traversal are closely inspired by BotW, everything else, like its world, its lore, its story, its characters and its combat system are its very own thing. This game's production value is also anything but cheap.
 
 **What exactly are you, Paimon?**
 
-NOT EMERGENCY FOOD!!* Paimon just likes tagging along, guiding the Traveler and helping them out as good as she can while being incredibly adorable.
+Insert ehe te nandayo video.
+
+NOT EMERGENCY FOOD!* Paimon just likes tagging along, guiding the Traveler and helping them out as good as she can while being incredibly adorable.
 
 <small>* Genshin Impact community inside joke. ;)</small>
 
 **Wriothesley re-run when?**
 
-Last re-run on 5.4 so you will need to wait a long while before he escapes from the Fortress of Meripide.
+Last re-run on 5.4 so you will need to wait a long while before he escapes from the Fortress of Meropide.
 
 <p align="center"><img src="header_06_spoiler.jpg"/></p>
 
@@ -273,17 +292,19 @@ Story spoilers or leaked content has to be put in spoiler tags. Anyone breaking 
 
 **Genshin Impact YouTube**: https://www.youtube.com/GenshinImpact
 
+**Paimon.moe** (tracks your wish history): https://paimon.moe
+
+**Akasha System** (character build leaderboards): https://akasha.cv
+
 ### Special Thanks
 
-Thanks to DatManOvaDer and Dlanor A. Knox for their great gif work. :)
+Thanks to **DatManOvaDer** and **Dlanor A. Knox** for their great GIF work.
 
-Thanks to **<placeholder_name>** for coming up with the cool topic title. :)
+Thanks to **KageYume** for coming up with the cool topic title and the epic combat and sublime traversal GIFs.
 
-Thanks to ArcticDonkey for coming up with the note on gacha for newcomers. :)
+Thanks to **ArcticDonkey** for coming up with the note on gacha for newcomers.
 
-Thanks to Tyaren for creating the previous OTs and the wonderful screenshots of Genshin Impact sceneries. :D
-
-Thanks to KageYume for the epic combat and sublime traversal GIFs. :D
+Thanks to **Tyaren** for creating the previous OTs and the wonderful screenshots of Genshin Impact sceneries. :D
 
 <p align="center"><img src="header_08_newcomers.jpg"/></p>
 
@@ -300,3 +321,24 @@ There is no issue spending within your means as long as you're enjoying the game
 3) Set a monthly budget and stick to it.
 
 Now, fun police time over, go do your commissions. :)
+
+### Running on Linux
+
+Just a word of caution, there is reports of accounts that got temporarily or permanently banned. Proceed carefully if you want to play on Linux.
+
+I've been playing Genshin Impact since late April 2025 on Bazzite Linux using Steam's Proton Experimental runner.
+
+For completion sake, my PC specs is AMD Ryzen 9000 series and Nvidia 50 Series.
+
+Also there is many ways to run Windows game on Linux so if something is not working, please post in the official Linux Gaming thread.
+
+This quick guide assumes you're running on the latest Bazzite Linux which is now bundled with Bazaar instead of KDE Discover.
+
+1. Install Bottles from Bazaar.
+2. Launch Bottles, navigate to Installers and install HoYoPlay Launcher.
+3. Make sure to install **Kron4ek wine staging 10.7** runner.
+4. Change the runner config for HoYoPlay Launcher to use Kron4ek wine staging 10.7.
+5. Run HoYoPlay Launcher and install Genshin Impact.
+6. In Steam, add Genshin Impact as a non-Steam game (navigate to the Bottles prefix directory where Genshin Impact is installed).
+7. Open the properties for Genshin Impact entry, change the Proton compabitlity to Proton Experimental.
+8. Launch Genshin Impact.
